@@ -2,13 +2,13 @@
   {
     "number": 0,
     "route": "GEO",
-    "destZ": "20PZ,
-    "destY": "20PY,
+    "destZ": "消防及救護學院",
+    "destY": "南灣消防處總部",
     "maxPZ": "1",
-    "priceZ1": "20.5,
-    "halfpriceZ1": "0.0",
+    "priceZ1": "16.4",
+    "halfpriceZ1": "8.2",
     "maxPY": "1",
-    "priceY1": "10.5,
-    "halfpriceY1": "30.2,
+    "priceY1": "16.4",
+    "halfpriceY1": "8.2"
   }
-]   
+ ]
