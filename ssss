@@ -3,9 +3,9 @@
     "number": 0,
     "route": "GEO",
     "destZ": "20PZ,
-    "destY": "20PY
+    "destY": "20PY,
     "maxPZ": "1",
-    "priceZ1": "20.5
+    "priceZ1": "20.5,
     "halfpriceZ1": "0.0",
     "maxPY": "1",
     "priceY1": "10.5,
