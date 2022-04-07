@@ -46,5 +46,17 @@
       "maxPY":"1",
       "priceY1":"19.8",
       "halfpriceY1":"8.8"
+   },
+   {
+      "number":4,
+      "route":"16X",
+      "destZ":"平治山",
+      "destY":"南灣大學",
+      "maxPZ":"1",
+      "priceZ1":"10.4",
+      "halfpriceZ1":".5.2",
+      "maxPY":"1",
+      "priceY1":"10.4",
+      "halfpriceY1":"5.2"
    }
 ]
