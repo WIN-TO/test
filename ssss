@@ -58,5 +58,17 @@
       "maxPY":"1",
       "priceY1":"10.4",
       "halfpriceY1":"5.2"
+   },
+{
+      "number":5,
+      "route":"228R",
+      "destZ":"秋山許願樹",
+      "destY":"清水公園",
+      "maxPZ":"1",
+      "priceZ1":"19.8",
+      "halfpriceZ1":".9.9",
+      "maxPY":"1",
+      "priceY1":"19.8",
+      "halfpriceY1":"9.9"
    }
-]
+ ]
