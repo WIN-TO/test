@@ -37,7 +37,7 @@
    },
    {
       "number":3,
-      "route":"228X",
+      "route":"228R",
       "destZ":"秋山許願樹",
       "destY":"清水公園",
       "maxPZ":"1",
@@ -61,14 +61,14 @@
    },
 {
       "number":5,
-      "route":"228R",
-      "destZ":"秋山許願樹",
-      "destY":"清水公園",
+      "route":"17",
+      "destZ":"清瀝工業邨",
+      "destY":"南灣大學",
       "maxPZ":"1",
-      "priceZ1":"19.8",
-      "halfpriceZ1":".9.9",
+      "priceZ1":"10.4",
+      "halfpriceZ1":".5.2",
       "maxPY":"1",
-      "priceY1":"19.8",
-      "halfpriceY1":"9.9"
+      "priceY1":"10.4",
+      "halfpriceY1":"5.2"
    }
  ]
