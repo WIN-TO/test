@@ -70,5 +70,19 @@
       "maxPY":"1",
       "priceY1":"10.4",
       "halfpriceY1":"5.2"
+   },
+   {  
+      "number":6,
+      "route":"15P",
+      "destZ":"南灣消防及救護學院",
+      "destY":"南灣大學",
+      "maxPZ":"1",
+      "priceZ1":"16.2",
+      "halfpriceZ1":"8.1",
+      "maxPY":"1",
+      "priceY1":"16.2",
+      "halfpriceY1":"8.1"
    }
- ]
+]
+ 
+ 
